@@ -5,3 +5,7 @@
 *{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+::selection {
+  color: rgb(172, 146, 54);
+  
+}
